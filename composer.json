@@ -1,0 +1,17 @@
+{
+  "name": "greatdevide/platonow_2",
+  "type": "library",
+  "authors": [
+    {
+      "name": "Platonow Dmitry",
+      "email": "fin.gin201461@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "platonow_2\\": ""
+    }
+  }
+}
